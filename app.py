@@ -123,9 +123,9 @@ PLOT_THEME = dict(
     paper_bgcolor="rgba(0,0,0,0)",
     plot_bgcolor="rgba(0,0,0,0)",
     font=dict(color="#8b949e"),
-    xaxis=dict(gridcolor="#21262d", zerolinecolor="#21262d"),
-    yaxis=dict(gridcolor="#21262d", zerolinecolor="#21262d"),
 )
+
+AXIS_STYLE = dict(gridcolor="#21262d", zerolinecolor="#21262d")
 
 # ════════════════════════════════════════════════════════════
 # SIDEBAR
