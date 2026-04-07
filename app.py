@@ -12,7 +12,6 @@ from datetime import date
 
 # ── Seitenkonfiguration ──────────────────────────────────────
 st.set_page_config(
-    page_name="BTC Trading",
     page_title="BTC MA Strategy",
     page_icon="₿",
     layout="wide",
