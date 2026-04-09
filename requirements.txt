@@ -2,3 +2,4 @@ yfinance
 plotly
 pandas
 numpy
+datetime
